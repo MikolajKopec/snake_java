@@ -1,1 +1,1 @@
-# snake_java
+Very simple Snake Game maked in Java for School
